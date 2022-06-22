@@ -1,0 +1,16 @@
+{
+  "name": "sushaaant",
+  "version": "1.0.0",
+  "description": "A portfolio website for an artist.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Art;",
+    "Portfolio;",
+    "website"
+  ],
+  "author": "Soujanyo Biswas",
+  "license": "MIT"
+}
